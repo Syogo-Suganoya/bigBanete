@@ -1,21 +1,14 @@
 # Name
-
 bigBanete
+pythonでビッグバネイトの説を検証する
 
-ビッグバネイトの説を検証する
+ビッグバネイトとは…
+どんな言葉でも「ビッグバン」に帰着するという説
+https://www.youtube.com/watch?v=CN7q1thA7mU
 
-# DEMO
-
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
-
-# Features
-
-"hoge"のセールスポイントや差別化などを説明する
 
 # Usage
-
 /execute/bigBaneteVerification.pyのfloorで検索階層を指定
-
 
 # Author
 
