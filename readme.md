@@ -8,11 +8,8 @@ pythonでビッグバネイトの説を検証する
 https://www.youtube.com/watch?v=CN7q1thA7mU
 
 
-# Usage
-/execute/bigBaneteVerification.pyのfloorで検索階層を指定
-
 # Author
 
 * 菅野谷省吾
 * https://qiita.com/SyogoSuganoya
-* representative@ssuganoya.com
+* info@ssuganoya.com
